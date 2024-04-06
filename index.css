@@ -1,0 +1,21 @@
+.bieumau{
+    /* A4 size container */
+    width: 21cm; /* 210mm */
+    height: 29.7cm; /* 297mm */ /* 210mm */
+    /* margin to center */
+    margin: 0 auto; /* horizontal */
+    margin-top: 1cm; /* vertical */
+    background-color: black;
+}
+.bieumauContent{
+    /* w-full h-full */
+    width: 100%;
+    height: 100%;
+    padding: 2cm 1.8cm 2cm 3cm;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13pt;
+    background-color: white; /* for testing */
+}
+body{
+    background-color: aquamarine;
+}
